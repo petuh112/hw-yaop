@@ -1,0 +1,19 @@
+1.
+a. 1,4,8
+b. 2,3,4,5
+c. 4
+d. 1, 4
+
+2.
+a. 2, 3
+b. 
+	1. git add hw1q2b.cpp
+	2. git log
+c. git will commit the three added files to the local repostiory
+
+4. The end contents of mat will be  
+ 1  2  3  4
+10  6  7  8
+31 10 11 12
+
+This is because the program recurses down to the first row, adds up all the elements in that row, places the sum in the first element in the next row, and then repeats. (ADD DRAWING)
